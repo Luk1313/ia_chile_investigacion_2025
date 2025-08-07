@@ -1,0 +1,15 @@
+ia_chile_investigacion_2025/
+├── README.md                      ← Explicación del proyecto (ya actualizado)
+├── ia_chile_investigacion_2025.zip   ← Archivo comprimido con todos los recursos
+├── docs/                          ← Información legal/documental
+│   └── resumen_legal.md
+│   └── politica_nacional_ia_2025.pdf
+│
+├── notebooks/                     ← Cuadernos de aprendizaje en Google Colab o Jupyter
+│   └── intro_ia_desde_cero.ipynb
+│
+├── talleres/                      ← Guías paso a paso
+│   └── taller_api_chatgpt.md
+│
+├── automatizaciones/             ← Scripts útiles para tareas de analista
+│   └── resumen_textos_openai.py
